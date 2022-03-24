@@ -127,7 +127,7 @@ No assigned readings
 
 Nisbet, Matthew C., and Dietram A. Scheufele. "[What's Next for Science Communication? Promising Directions and Lingering Distractions](https://doi.org/10.3732/ajb.0900041)." _American Journal of Botany_ 96, no. 10 (2009): 1767–8.
 
-Pineda, Diego. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Editing a Science Documentary: More Than Words (Literally!)." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.674.1529&rep=rep1&type=pdf) _Science Editor_ 27, no. 2 (2004): 47–49.
+Pineda, Diego. ["Editing a Science Documentary: More Than Words (Literally!)." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.674.1529&rep=rep1&type=pdf) _Science Editor_ 27, no. 2 (2004): 47–49.
 
 Varner, Johanna. "[Scientific Outreach: Toward Effective Public Engagement with Biological Science](https://doi.org/10.1093/biosci/biu021)." _BioScience_ 64, no. 4 (2014): 333–40.
 
