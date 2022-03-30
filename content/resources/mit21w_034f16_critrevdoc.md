@@ -4,6 +4,7 @@ description: 'This files contain information regarding science writing and new m
   Perspectives on medicine and public health: Critical review documentaries.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/715dac40e66d80fcb72568a88b83ae0d_MIT21W_034F16_CritRevDoc.pdf
 file_type: application/pdf
+parent_uid: 4e1aeeef-dea5-3825-f90b-766bb023b4b8
 resourcetype: Document
 title: 21W.034F16 Critical Review Documentaries
 uid: 715dac40-e66d-80fc-b725-68a88b83ae0d
